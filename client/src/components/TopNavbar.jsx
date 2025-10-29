@@ -33,7 +33,7 @@ const TopNavbar = () => {
           {/* Profile */}
           <div className="flex items-center gap-2 cursor-pointer">
             <img
-              src="https://via.placeholder.com/40"
+              src="#"
               alt="User"
               className="w-9 h-9 rounded-full border"
             />
